@@ -2,7 +2,7 @@
 
 Welcome to the code repository for the WI+RE (Writing Instruction + Research Education) website!
 
-The code here creates this public webpage: https://uclalibrary.github.io/research-tips/
+The code here creates this public webpage: https://sdsulibrary.github.io/research-tips/
 
 # Want to suggest a change? Have feedback for WI+RE? Let us know!
 
